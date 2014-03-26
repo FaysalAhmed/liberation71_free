@@ -1,10 +1,7 @@
-=========================
 Team 71 Present  
 Liberation 71 : Live The Glory .  
 [ Alpha Game-play version ]  
 www.Liberation71.com
-
-=========================
 
 Installations:
 --------------
@@ -15,14 +12,10 @@ Installations:
 4. Click On "New game" It might take some time to load properly .
 5. Play and enjoy.
 
-=========================
-
 Additional Software(s):
 -----------------------
 
 Directx 9.0 ; Microsoft Dot Net Framework 4.0 (http://www.microsoft.com/en-us/download/details.aspx?id=17718)
-
-=========================
 
 Minimum System Requirements:
 ----------------------------
@@ -32,8 +25,6 @@ RAM: 1 GB
 OS:  Windows , MAC, Ubuntu.
 HDD Space: 500 MB ( Recommended )
 Video Memory (AGP): 512 ( Build in)
-
-=========================
 
 Recommended System Requirments:
 -------------------------------
